@@ -1,0 +1,6 @@
+@DOT_API_CRUD_HostAddress = http://localhost:5243
+
+GET {{DOT_API_CRUD_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
